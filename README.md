@@ -18,6 +18,7 @@
 ![CUSTOMER_EXCEL](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/cc1516fc-217e-4567-9376-092c34deb294)
 
 ## Data Model
+
   Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
   This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
@@ -26,7 +27,7 @@
 
 ## Sales Management Dashboard
 
--> The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+  The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
 ![POWERBI_1](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/0b5e7fe1-3257-4ae7-a1c6-289de2158f4e)
 
