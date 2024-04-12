@@ -11,12 +11,11 @@
   
   One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
   
-  Below are the SQL statements for cleansing and transforming necessary data.
+  Below are the DIM_CUSTOMER SQL statements for cleansing and transforming necessary data.
+  
+![SQL_CLEANSING](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/1977bc0c-0967-4a32-89e7-620518567bee)
 
 ![CUSTOMER_EXCEL](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/cc1516fc-217e-4567-9376-092c34deb294)
-
-![SQL_CLEANSING](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/c7c6592d-18fd-4447-8404-eb0fe54d47cb)
-
 
 ## Data Model
   Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
