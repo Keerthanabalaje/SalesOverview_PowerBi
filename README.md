@@ -30,5 +30,5 @@
   The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
 ![POWERBI_1](https://github.com/Keerthanabalaje/SalesOverview/assets/78976627/0b5e7fe1-3257-4ae7-a1c6-289de2158f4e)
-https://github.com/Keerthanabalaje/SalesOverview/blob/main/SalesOverview.pdf
+PDF FORMAT : https://github.com/Keerthanabalaje/SalesOverview/blob/main/SalesOverview.pdf
 
